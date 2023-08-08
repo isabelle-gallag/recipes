@@ -4,10 +4,11 @@ Ingredients:
 -cilantro
 -salt 
 -lime
+-tomatos
 
 Instructions:
 1. mash avocados
-2. chop onions
+2. chop onions and tomatos
 3. chop cilantro
 4. squeeze limes
 5. mix everything together
